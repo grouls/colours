@@ -25,7 +25,7 @@ const Small = styled.span`
 export default memo(({ children }) => (
   <Header>
     <h2>
-      Colour Name <Em>/ Css Name</Em>
+      Colour Name (Demo) <Em>/ Css Name</Em>
       <Small>
         <Em>
           #Hex <span>/</span> <span>rgb(r, g, b)</span>
